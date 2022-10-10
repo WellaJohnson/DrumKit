@@ -1,0 +1,1 @@
+https://github.com/sirius-school/Initiation_Programmation_2022/blob/main/ExercisesJS/z_JS30/01%20-%20JavaScript%20Drum%20Kit/resources/images/background.jpg
